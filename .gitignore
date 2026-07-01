@@ -46,6 +46,8 @@ log*.txt
 .terraform.tfstate.lock.info
 
 .envrc
+.direnv/
+flake.*
 
 
 .claude/
@@ -53,3 +55,5 @@ logs/
 
 # SBOM files generated during release
 *_sbom.*.json
+
+
